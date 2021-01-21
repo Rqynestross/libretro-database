@@ -1,1 +1,9 @@
-cheats = "0"
+cheats = "2"
+
+cheat0_desc = "Moonberry Slot 1"
+cheat0_code = "0156E484+00000102"
+cheat0_enable = false 
+
+cheat1_desc = "Max Item Slot 1"
+cheat1_code = "0156E486+00000063"
+cheat1_enable = false
